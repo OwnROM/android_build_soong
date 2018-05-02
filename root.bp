@@ -6,7 +6,7 @@ build = [
 
 subdirs = [
     "build/soong",
-    "vendor/lineage/build/soong",
+    "vendor/ownrom/build/soong",
 ]
 
 optional_subdirs = [
